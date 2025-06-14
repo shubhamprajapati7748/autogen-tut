@@ -6,4 +6,4 @@ autogen-ext[openai]
 autogen-ext[ollama]
 autogen_core
 ipykernel
-autogenstudio
+autogenstudio==0.4.2.1
